@@ -1,9 +1,0 @@
-.App {
-  width: 100vw;
-  height: 100vh;
-  margin: auto;
-  background: url("../public/background/moon.png") center;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
