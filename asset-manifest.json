@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TBWA/static/css/main.d5ac97ca.css",
+    "main.js": "/TBWA/static/js/main.9b7488c5.js",
+    "static/js/787.d62d1c65.chunk.js": "/TBWA/static/js/787.d62d1c65.chunk.js",
+    "static/media/moon.png": "/TBWA/static/media/moon.057392b2757d3af15f9f.png",
+    "index.html": "/TBWA/index.html",
+    "main.d5ac97ca.css.map": "/TBWA/static/css/main.d5ac97ca.css.map",
+    "main.9b7488c5.js.map": "/TBWA/static/js/main.9b7488c5.js.map",
+    "787.d62d1c65.chunk.js.map": "/TBWA/static/js/787.d62d1c65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5ac97ca.css",
+    "static/js/main.9b7488c5.js"
+  ]
+}
